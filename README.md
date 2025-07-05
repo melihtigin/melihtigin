@@ -1,5 +1,4 @@
-The blockchain world of a teacher.
-
+**The blockchain world of a teacher.**
 - 👋 Hi, I’m @melihtigin. Node runner, tester, blockchain enthusiast, NFT collector.
 - 👀 I’m interested in blockhain. 
 - 🌱 I’m currently learning solidty...
